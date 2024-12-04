@@ -1,0 +1,9 @@
+C:\Users\Desarrollo\source\repos\TestSales\SLC\bin\Debug\SLC.dll
+C:\Users\Desarrollo\source\repos\TestSales\SLC\bin\Debug\SLC.pdb
+C:\Users\Desarrollo\source\repos\TestSales\SLC\bin\Debug\Entities.dll
+C:\Users\Desarrollo\source\repos\TestSales\SLC\bin\Debug\Entities.pdb
+C:\Users\Desarrollo\source\repos\TestSales\SLC\obj\Debug\SLC.csproj.AssemblyReference.cache
+C:\Users\Desarrollo\source\repos\TestSales\SLC\obj\Debug\SLC.csproj.CoreCompileInputs.cache
+C:\Users\Desarrollo\source\repos\TestSales\SLC\obj\Debug\SLC.csproj.Up2Date
+C:\Users\Desarrollo\source\repos\TestSales\SLC\obj\Debug\SLC.dll
+C:\Users\Desarrollo\source\repos\TestSales\SLC\obj\Debug\SLC.pdb

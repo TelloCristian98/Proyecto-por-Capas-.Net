@@ -1,0 +1,6 @@
+C:\Users\Desarrollo\source\repos\TestSales\Entities\bin\Debug\Entities.dll
+C:\Users\Desarrollo\source\repos\TestSales\Entities\bin\Debug\Entities.pdb
+C:\Users\Desarrollo\source\repos\TestSales\Entities\obj\Debug\Entities.csproj.AssemblyReference.cache
+C:\Users\Desarrollo\source\repos\TestSales\Entities\obj\Debug\Entities.csproj.CoreCompileInputs.cache
+C:\Users\Desarrollo\source\repos\TestSales\Entities\obj\Debug\Entities.dll
+C:\Users\Desarrollo\source\repos\TestSales\Entities\obj\Debug\Entities.pdb

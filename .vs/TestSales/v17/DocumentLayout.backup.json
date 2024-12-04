@@ -1,0 +1,160 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Desarrollo\\source\\repos\\TestSales\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D7B6C397-BE97-4502-9264-DCF942B44D7F}|Test\\Test.csproj|c:\\users\\desarrollo\\source\\repos\\testsales\\test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7B6C397-BE97-4502-9264-DCF942B44D7F}|Test\\Test.csproj|solutionrelative:test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7B6C397-BE97-4502-9264-DCF942B44D7F}|Test\\Test.csproj|c:\\users\\desarrollo\\source\\repos\\testsales\\test\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7B6C397-BE97-4502-9264-DCF942B44D7F}|Test\\Test.csproj|solutionrelative:test\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7B6C397-BE97-4502-9264-DCF942B44D7F}|Test\\Test.csproj|c:\\users\\desarrollo\\source\\repos\\testsales\\test\\app_start\\unityconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7B6C397-BE97-4502-9264-DCF942B44D7F}|Test\\Test.csproj|solutionrelative:test\\app_start\\unityconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C09C039-5D7B-4DA6-AF28-4D8535757DCB}|Service\\Service.csproj|c:\\users\\desarrollo\\source\\repos\\testsales\\service\\app_start\\unityconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C09C039-5D7B-4DA6-AF28-4D8535757DCB}|Service\\Service.csproj|solutionrelative:service\\app_start\\unityconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C09C039-5D7B-4DA6-AF28-4D8535757DCB}|Service\\Service.csproj|c:\\users\\desarrollo\\source\\repos\\testsales\\service\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C09C039-5D7B-4DA6-AF28-4D8535757DCB}|Service\\Service.csproj|solutionrelative:service\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{987AD440-FCAA-4A1A-A582-A8B7C2AA5BEA}|BLL\\BLL.csproj|c:\\users\\desarrollo\\source\\repos\\testsales\\bll\\productlogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{987AD440-FCAA-4A1A-A582-A8B7C2AA5BEA}|BLL\\BLL.csproj|solutionrelative:bll\\productlogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CFB1D28-D733-4C21-83C4-7EC547DA46B6}|SLC\\SLC.csproj|c:\\users\\desarrollo\\source\\repos\\testsales\\slc\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CFB1D28-D733-4C21-83C4-7EC547DA46B6}|SLC\\SLC.csproj|solutionrelative:slc\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C09C039-5D7B-4DA6-AF28-4D8535757DCB}|Service\\Service.csproj|c:\\users\\desarrollo\\source\\repos\\testsales\\service\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C09C039-5D7B-4DA6-AF28-4D8535757DCB}|Service\\Service.csproj|solutionrelative:service\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UnityConfig.cs",
+              "DocumentMoniker": "C:\\Users\\Desarrollo\\source\\repos\\TestSales\\Test\\App_Start\\UnityConfig.cs",
+              "RelativeDocumentMoniker": "Test\\App_Start\\UnityConfig.cs",
+              "ToolTip": "C:\\Users\\Desarrollo\\source\\repos\\TestSales\\Test\\App_Start\\UnityConfig.cs",
+              "RelativeToolTip": "Test\\App_Start\\UnityConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T03:15:16.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\Desarrollo\\source\\repos\\TestSales\\Test\\Startup.cs",
+              "RelativeDocumentMoniker": "Test\\Startup.cs",
+              "ToolTip": "C:\\Users\\Desarrollo\\source\\repos\\TestSales\\Test\\Startup.cs",
+              "RelativeToolTip": "Test\\Startup.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T03:09:42.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Global.asax.cs",
+              "DocumentMoniker": "C:\\Users\\Desarrollo\\source\\repos\\TestSales\\Service\\Global.asax.cs",
+              "RelativeDocumentMoniker": "Service\\Global.asax.cs",
+              "ToolTip": "C:\\Users\\Desarrollo\\source\\repos\\TestSales\\Service\\Global.asax.cs",
+              "RelativeToolTip": "Service\\Global.asax.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T03:01:51.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductLogic.cs",
+              "DocumentMoniker": "C:\\Users\\Desarrollo\\source\\repos\\TestSales\\BLL\\ProductLogic.cs",
+              "RelativeDocumentMoniker": "BLL\\ProductLogic.cs",
+              "ToolTip": "C:\\Users\\Desarrollo\\source\\repos\\TestSales\\BLL\\ProductLogic.cs",
+              "RelativeToolTip": "BLL\\ProductLogic.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T02:58:22.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UnityConfig.cs",
+              "DocumentMoniker": "C:\\Users\\Desarrollo\\source\\repos\\TestSales\\Service\\App_Start\\UnityConfig.cs",
+              "RelativeDocumentMoniker": "Service\\App_Start\\UnityConfig.cs",
+              "ToolTip": "C:\\Users\\Desarrollo\\source\\repos\\TestSales\\Service\\App_Start\\UnityConfig.cs",
+              "RelativeToolTip": "Service\\App_Start\\UnityConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T02:51:41.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Users\\Desarrollo\\source\\repos\\TestSales\\SLC\\IProductService.cs",
+              "RelativeDocumentMoniker": "SLC\\IProductService.cs",
+              "ToolTip": "C:\\Users\\Desarrollo\\source\\repos\\TestSales\\SLC\\IProductService.cs",
+              "RelativeToolTip": "SLC\\IProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T02:33:53.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\Desarrollo\\source\\repos\\TestSales\\Service\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Service\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\Desarrollo\\source\\repos\\TestSales\\Service\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Service\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T02:15:56.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Desarrollo\\source\\repos\\TestSales\\Test\\Program.cs",
+              "RelativeDocumentMoniker": "Test\\Program.cs",
+              "ToolTip": "C:\\Users\\Desarrollo\\source\\repos\\TestSales\\Test\\Program.cs",
+              "RelativeToolTip": "Test\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T02:31:27.535Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

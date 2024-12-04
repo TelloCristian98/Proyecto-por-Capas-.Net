@@ -1,0 +1,16 @@
+C:\Users\Desarrollo\source\repos\TestSales\BLL\bin\Debug\BLL.dll
+C:\Users\Desarrollo\source\repos\TestSales\BLL\bin\Debug\BLL.pdb
+C:\Users\Desarrollo\source\repos\TestSales\BLL\bin\Debug\Entities.dll
+C:\Users\Desarrollo\source\repos\TestSales\BLL\bin\Debug\SLC.dll
+C:\Users\Desarrollo\source\repos\TestSales\BLL\bin\Debug\VDL.dll
+C:\Users\Desarrollo\source\repos\TestSales\BLL\bin\Debug\EntityFramework.dll
+C:\Users\Desarrollo\source\repos\TestSales\BLL\bin\Debug\Entities.pdb
+C:\Users\Desarrollo\source\repos\TestSales\BLL\bin\Debug\SLC.pdb
+C:\Users\Desarrollo\source\repos\TestSales\BLL\bin\Debug\VDL.pdb
+C:\Users\Desarrollo\source\repos\TestSales\BLL\bin\Debug\VDL.dll.config
+C:\Users\Desarrollo\source\repos\TestSales\BLL\bin\Debug\EntityFramework.xml
+C:\Users\Desarrollo\source\repos\TestSales\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\Desarrollo\source\repos\TestSales\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\Desarrollo\source\repos\TestSales\BLL\obj\Debug\BLL.csproj.Up2Date
+C:\Users\Desarrollo\source\repos\TestSales\BLL\obj\Debug\BLL.dll
+C:\Users\Desarrollo\source\repos\TestSales\BLL\obj\Debug\BLL.pdb
